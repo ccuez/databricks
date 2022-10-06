@@ -4,6 +4,7 @@
 # COMMAND ----------
 
 print( "Hello, I´m reading from Kernel")
+print( "Hello, I´m reading from Kernel")
 
 
 # COMMAND ----------
