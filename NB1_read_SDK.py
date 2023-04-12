@@ -10,7 +10,7 @@ print( "Hello, I´m reading from Kernel")
 # COMMAND ----------
 
 import time
-print( "Sleeping 30 sec")
+print( "Sleeping 30 secs")
 time.sleep(30)
 
 # COMMAND ----------
